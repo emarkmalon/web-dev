@@ -1,0 +1,343 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     font-family: sans-serif;
+}
+
+
+
+
+nav{
+  width:100% ;
+  background:rgb(41, 61, 82) ;
+  display: inline-block;
+  padding: 40px 80px;
+  /* height: 100px;   */
+}
+
+
+nav a{
+    color: white;
+    text-decoration: none;
+
+}
+
+
+.isha{
+    display: inline-block;
+    float:right;
+    
+   
+
+}
+
+
+
+.logo{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.ish{
+    display: inline-block;
+    list-style: none;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+
+
+
+#intro{
+    height: 500px;
+    background:rgb(0, 194, 157) ;
+    text-align: center;
+    padding: 100px;
+}
+
+p{
+    color: white;
+    margin-top: 20px;
+   
+   
+}
+
+h1{
+    color: white;
+    font-size: 25px;
+    padding: 20px;
+   }
+   
+.star{
+    height: 20px;}
+
+.banner{
+    height: 150px;
+    margin-bottom: 20px;
+   
+}
+.graph{
+    padding-bottom: 40px;
+}
+
+.row{
+    text-align: center;
+    margin: 10px;
+    padding: 0;
+}
+
+.rows{
+    text-align: center;
+    padding: 0;
+}
+
+.port{
+    height: 900px;
+}
+.hey{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 20px;
+}
+
+
+.hie{
+    text-align: center;
+    margin: 10px; 
+    width: 150px;
+}
+
+
+
+#port{
+     height: 450px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#tag{
+margin-bottom: 100px;
+}
+
+
+#about{
+    background: rgb(0, 194, 157) ;
+    height: 350px;
+    text-align: center;
+    
+}
+
+.hee{
+    text-align: center;
+   padding-top: 50px;
+   color: white;
+   font-size: 20px;
+}
+
+.ab{
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+   
+   
+}
+
+#tem{
+    text-align: center;
+    display: inline;
+    padding-top: 20px;
+    
+}
+
+
+/* .pac{
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+   
+    display: flex; 
+} */
+.para{
+    float: left;
+    display: inline-block;
+    margin-top: 10px;
+    text-align: justify;
+     margin-right: 10px; 
+     padding-left: 450px;
+    border-spacing: 10px;
+    letter-spacing: 0,3px;
+
+}
+
+.par{
+    float: right;
+    display: inline-block;
+    margin-top: 10px;
+    text-align: justify;
+    padding-right: 420px; 
+    letter-spacing: 0,3px;
+}
+
+
+.free{
+     background:rgb(0, 194, 157);
+    height: 30px;
+    width: 120px;
+    border: 2px solid white;
+    text-align: center;
+    margin-top:40px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#cont{
+    text-align: center;
+}
+.his{
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+.him{
+    margin-top: 10px;
+    width: 150px;
+}
+
+.text{
+    text-align: left;
+    padding-left: 450px;
+    color: gray;
+    margin-top: 30px;
+}
+
+hr{
+    color: 100px solid silver;
+    margin-right: 40%;
+    margin-bottom: 10px;
+}
+
+
+.btn{
+    background-color: rgb(0, 194, 157);
+    border: none; 
+    padding: 10px  30px;
+    color: white;
+    /* text-align: center; */
+    margin-bottom: 50px;
+}
+
+.text p{
+    color: silver;
+}
+
+.fo h3{
+    display: inline-block;
+    padding-right: 100px;
+    margin-top: 100px;
+       
+}
+
+.for p{
+    display: inline-block;
+    padding-right: 100px;
+    margin-top: 100px;
+        
+}
+
+
+
+        .footer {
+            text-align: center;
+            height: 200px;
+            width: 100%;
+            background-color:  rgb(41, 61, 82);
+            padding-left: 320px;
+            padding-top: 50px;
+            display: inline-flex; 
+        }
+        .fot{
+            
+            text-align: center;
+            padding-top: 0px;
+             margin-left: 40px;
+             margin-right: 40px; 
+        } 
+        
+        
+        strong{
+            color: rgb(26, 188, 156);
+        }
+        
+        .mam{
+            margin-bottom: 20px;
+            color: white
+        }
+        
+        .tab{
+           padding-bottom: 20px;
+            color: white
+        }
+        
+        .ema{
+            padding-bottom:20px;
+            color: white
+        }
+        
+        
+        .icon{
+           letter-spacing: 5px
+        }
+        
+        .footer p{
+            color: white;
+        }
+
+        .foot{
+            float: left;
+            margin-left: 100px;
+        }
+        .foote{
+            float: right;
+            margin-right: 100px;
+        }
+        .rar{
+             text-align: center; 
+            font-size:16px ;
+            font-weight: lighter;
+            word-spacing: 0,5px;
+            letter-spacing: 0,2px;
+            margin-top: 5px;
+            
+        }
+        footer h3{
+            font-size: 20px;
+            font-weight: bold;
+
+        }
+
+        .icn{
+            display: inline;
+            padding-top: 20px;
+            color: white;
+            border: 1px solid white;
+            border-radius: 100%;
+            width: 40px;
+            padding: 8px;
+            letter-spacing: 5px;
+        }
+        .copy{
+            text-align: center;
+            color: white;
+            background-color: rgb(24, 37, 48);
+            font-size: 13px;
+            padding-top: 15px;
+            height: 70px;
+            }
+            
+            
+        
+       
